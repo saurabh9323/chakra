@@ -9,7 +9,6 @@ import { FaMoon, FaSun } from 'react-icons/fa';
 
   return (
     <IconButton
-      size="md"
       aria-label={`Switch to ${text} mode`}
       variant="ghost"
       color="current"
